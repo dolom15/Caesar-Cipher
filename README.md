@@ -1,1 +1,1 @@
-# Caesar-Cipher
+# Caesar-Cipher This code implements a Caesar cipher by shifting each alphabetical character in the input string `s` by `k` positions while preserving case, leaving non-letter characters unchanged. It returns the resulting encrypted string after applying the shift to all letters.
